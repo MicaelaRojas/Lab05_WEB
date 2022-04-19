@@ -3,7 +3,7 @@ import { sumar, restar, multiplicar, division } from "../helper/operations";
 
 test("Suma", () => {
 
-  expect(sumar(1, 3)).toBe(4);
+  expect(sumar(1, 3)).toBe(5);
 });
 
 test("Resta", () => {
